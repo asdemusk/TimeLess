@@ -1,0 +1,7 @@
+dreta: d
+esquerra: a
+ajup: s
+ataca: q,k
+salta: w
+avanç: l
+retro: j

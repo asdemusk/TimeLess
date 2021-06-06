@@ -1,0 +1,10 @@
+import pygame
+pygame.mixer.init()
+pygame.mixer.music.load("Music/"+"prueba_sonido.ogg")
+
+def volum(n):
+    pygame.mixer.music.set_volume(n)
+
+def play():
+    pygame.mixer.music.play(0)
+#pygame.mixer.quit()

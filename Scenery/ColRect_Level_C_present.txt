@@ -1,0 +1,15 @@
+Section 0
+ Rectangles dimensions:
+ RDIM-64x3,5x1,5x1,3x1,5x1,4x1,5x1,5x1,5x1,5x1,5x1,15x1,5x1,16x1
+ Rectangles positions:
+ RPOS-0x0,4x8,12x8,6x14,12x14,13x20,26x8,34x8,26x14,48x8,56x8,47x14,4x19,6x27
+Section 1
+ Rectangles dimensions:
+ RDIM-64x3,5x1,5x1,3x1,5x1,4x1,5x1,5x1,5x1,5x1,5x1,15x1,5x1,17x1
+ Rectangles positions:
+ RPOS-0x0,4x8,12x8,6x14,12x14,13x20,26x8,34x8,26x14,48x8,56x8,47x14,31x19,17x27
+Section 2
+ Rectangles dimensions:
+ RDIM-64x3,5x1,5x1,5x1,5x1,5x1,5x1,5x1,17x1
+ Rectangles positions:
+ RPOS-0x0,26x8,34x8,26x14,48x8,56x8,56x14,53x19,39x27

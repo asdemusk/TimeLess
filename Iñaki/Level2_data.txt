@@ -1,0 +1,6 @@
+Level C
+--Image file: Nivel C.png
+--Image matrix dimensions: (3,3)
+--Colisionable rectangles file: ColRect_Level_C.txt
+--Section order: 0,1,2,2,1,0,2,1,2,0,1,0
+

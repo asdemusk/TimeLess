@@ -1,0 +1,19 @@
+
+Modulo: sys
+ Función: sys.path.insert(index,object)
+  -index: prioridad de importado?
+  -object: module path
+
+Modulo: Generic_Sprite
+ Clase: BaseSprite(ImFile, MatDim, frame_speed, ColRect=[])
+  -ImFile: Imagen del Sprite (png,etc).
+  -MatDim: Tupla o lista con el numero de filas y columnas del sprite sheet ej: (3,4) 3 filas y 4 columnas.
+  -frame_speed: La velocidad de la animación en frames/imagen.
+  -ColRect: Rectángulos para las colisiones.
+   Tupla con 2 elementos:
+   -Tupla de tuplas con las dimensiones.
+   -Tupla de tuplas con las posiciones.
+
+Modulo: os.listdir
+    Función: os.listdir(path)
+     -path: path del directorio que se quiere leer contenido

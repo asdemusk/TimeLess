@@ -1,0 +1,14 @@
+===================================
+Botons:
+===================================
+Marge / 25
+Numero / 3
+Lletra / 60
+1 / Load Game-white-black
+2 / New Game-white-black
+3 / Back-black-white
+===================================
+Fons Menu:
+===================================
+Color / black
+Alpha / 255

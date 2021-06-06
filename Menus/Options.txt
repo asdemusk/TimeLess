@@ -1,0 +1,15 @@
+===================================
+Botons:
+===================================
+Marge / 25
+Numero / 4
+Lletra / 60
+1 / Sound-white-black
+2 / Controls-white-black
+3 / Weapon-white-black
+4 / Back-black-white
+===================================
+Fons Menu:
+===================================
+Color / white
+Alpha / 255

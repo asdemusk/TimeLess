@@ -1,0 +1,17 @@
+===================================
+Botons:
+===================================
+Marge / 25
+Numero / 6
+Lletra / 40
+1 / Continue-white-black
+2 / Save-white-black
+3 / Sound-white-black
+4 / Main Menu-white-black
+5 / Game Menu-white-black
+6 / EXIT-black-red
+===================================
+Fons Menu:
+===================================
+Color / grey
+Alpha / 127

@@ -1,0 +1,14 @@
+===================================
+Botons:
+===================================
+Marge / 25
+Numero / 3
+Lletra / 60
+1 / Play Game-white-black
+2 / Options-white-black
+3 / EXIT-black-red
+===================================
+Fons Menu:
+===================================
+Color / green
+Alpha / 255

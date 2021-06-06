@@ -1,0 +1,30 @@
+Section 0
+ Rectangles dimensions:
+ RDIM-21x3,28x3,13x1,7x1
+ Rectangles positions:
+ RPOS-0x0,36x0,7x8,7x16
+Section 1
+ Rectangles dimensions:
+ RDIM-21x3,28x3,13x1,10x1
+ Rectangles positions:
+ RPOS-0x0,36x0,7x8,49x8
+Section 2
+ Rectangles dimensions:
+ RDIM-64x3
+ Rectangles positions:
+ RPOS-0x0
+Section 3
+ Rectangles dimensions:
+ RDIM-64x3
+ Rectangles positions:
+ RPOS-0x0
+Section 4
+ Rectangles dimensions:
+ RDIM-64x3
+ Rectangles positions:
+ RPOS-0x0
+Section 5
+ Rectangles dimensions:
+ RDIM-64x3
+ Rectangles positions:
+ RPOS-0x0

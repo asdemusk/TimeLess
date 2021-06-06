@@ -1,0 +1,6 @@
+Level D
+--Image file: Nivel D.png
+--Image matrix dimensions: (3,3)
+--Colisionable rectangles file: ColRect_Level_D.txt
+--Section order: 0,1,1,1,1,2
+

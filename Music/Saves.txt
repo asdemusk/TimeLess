@@ -1,0 +1,3 @@
+general: 0
+backg: 0
+enemy: 0

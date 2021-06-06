@@ -1,0 +1,15 @@
+Section 0
+ Rectangles dimensions:
+ RDIM-64x3
+ Rectangles positions:
+ RPOS-0x0
+Section 1
+ Rectangles dimensions:
+ RDIM-64x3
+ Rectangles positions:
+ RPOS-0x0
+Section 2
+ Rectangles dimensions:
+ RDIM-64x3
+ Rectangles positions:
+ RPOS-0x0
